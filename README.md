@@ -1,6 +1,4 @@
-# hw-lesson1-task9
-
-# Readme Голосовой список покупок
+# hw-lesson1-task9 - Голосовой список покупок
 
 ## About
 
